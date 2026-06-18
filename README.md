@@ -1,2 +1,0 @@
-# PYTHON
-SAI-PYTHON
